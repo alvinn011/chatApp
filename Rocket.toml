@@ -1,0 +1,6 @@
+[default]
+# temp secret key
+# will be changed in prod
+secret_key = "6f38d0714d562536a79093655d4f69a714414c95d77ff011d42041a8d09f17b8"
+address = "0.0.0.0"
+port = 8001
